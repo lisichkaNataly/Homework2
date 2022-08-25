@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bdff771-089f-4260-a615-9fe6f8844b39" name="Changes" comment="домашнее задание - 3" />
+    <list default="true" id="1bdff771-089f-4260-a615-9fe6f8844b39" name="Changes" comment="домашнее задание - 1&#10;домашнее задание - 2&#10;домашнее задание - 3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661181034888</updated>
       <workItem from="1661181036408" duration="2954000" />
-      <workItem from="1661446186501" duration="10615000" />
+      <workItem from="1661446186501" duration="11094000" />
     </task>
     <task id="LOCAL-00001" summary="домашнее задание - 1">
       <created>1661452216306</created>
@@ -84,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661459370910</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="домашнее задание - 1&#10;домашнее задание - 2&#10;домашнее задание - 3">
+      <created>1661460161398</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661460161398</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +112,7 @@
     <MESSAGE value="домашнее задание - 1" />
     <MESSAGE value="домашнее задание - 2" />
     <MESSAGE value="домашнее задание - 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="домашнее задание - 3" />
+    <MESSAGE value="домашнее задание - 1&#10;домашнее задание - 2&#10;домашнее задание - 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="домашнее задание - 1&#10;домашнее задание - 2&#10;домашнее задание - 3" />
   </component>
 </project>
